@@ -1,0 +1,10 @@
+C:\Users\LAB\Desktop\ATMSystem2\ATMSystem2\bin\Debug\ATMSystem2.exe.config
+C:\Users\LAB\Desktop\ATMSystem2\ATMSystem2\bin\Debug\ATMSystem2.exe
+C:\Users\LAB\Desktop\ATMSystem2\ATMSystem2\bin\Debug\ATMSystem2.pdb
+C:\Users\LAB\Desktop\ATMSystem2\ATMSystem2\obj\Debug\ATMSystem2.csproj.AssemblyReference.cache
+C:\Users\LAB\Desktop\ATMSystem2\ATMSystem2\obj\Debug\ATMSystem2.Form1.resources
+C:\Users\LAB\Desktop\ATMSystem2\ATMSystem2\obj\Debug\ATMSystem2.Properties.Resources.resources
+C:\Users\LAB\Desktop\ATMSystem2\ATMSystem2\obj\Debug\ATMSystem2.csproj.GenerateResource.cache
+C:\Users\LAB\Desktop\ATMSystem2\ATMSystem2\obj\Debug\ATMSystem2.csproj.CoreCompileInputs.cache
+C:\Users\LAB\Desktop\ATMSystem2\ATMSystem2\obj\Debug\ATMSystem2.exe
+C:\Users\LAB\Desktop\ATMSystem2\ATMSystem2\obj\Debug\ATMSystem2.pdb
